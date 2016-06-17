@@ -1,4 +1,0 @@
-# vim bundles for pathogen
-pathogen:           https://github.com/tpope/vim-pathogen.git
-sensible:           https://github.com/tpope/vim-sensible.git
-
